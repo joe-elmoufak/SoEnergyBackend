@@ -1,5 +1,4 @@
 # SoEnergyBackend
-SoEnergy Backend Test
 
 I have created some simple api tests to test various parts of the test apis given to me.
 
@@ -15,7 +14,7 @@ Maven retrieves the dependancies so just right click on the maven pom and rebuil
 
 Either run the tests from the IDE (eg IntelliJ or from the command line by going to the project root and running "mvn clean test"
 
-The test runs in github actions via linux with the actions file included in the repo.
+The test runs in github actions via linux with the actions file included in the repo. Evertime a push is made, the tests will run.
 
 # With regards to non-functional requirements....
 
